@@ -1,4 +1,4 @@
-# Cross-sectional-regression-of-stock-returns
+# Cross-sectional regression of stock returns
 This project is an exercise to replicate the Lewellen (2015) paper on cross sectional regression analysis of expected stock returns for acadamic learning purpose.
 
 We perform monthly cross-sectional regression analysis of stock returns in 3 regression models of predictors (or characteristics):
